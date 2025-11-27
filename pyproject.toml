@@ -1,0 +1,19 @@
+[project]
+name = "mao-llm-library"
+version = "0.0.1"
+authors = [
+  { name="Jianwei Mao", email="maojianwei2016@126.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "Apache-2.0"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/MaoJianwei/mao-llm-library"
+Issues = "https://github.com/MaoJianwei/mao-llm-library/issues"
