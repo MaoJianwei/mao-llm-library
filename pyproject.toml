@@ -14,6 +14,10 @@ classifiers = [
 license = "Apache-2.0"
 license-files = ["LICEN[CS]E*"]
 
+dependencies = [
+    "openai==2.8.1"
+]
+
 [project.urls]
 Homepage = "https://github.com/MaoJianwei/mao-llm-library"
 Issues = "https://github.com/MaoJianwei/mao-llm-library/issues"
